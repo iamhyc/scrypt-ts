@@ -1,8 +1,7 @@
 {
-  "name": "scrypt-ts",
+  "name": "scrypt-kdf-ts",
   "version": "1.0.0",
   "description": "A simple scrypt implementation in TypeScript",
-  "publisher": "iamhyc",
 
   "dependencies": {
     "pbkdf2": "^3.1.2",
